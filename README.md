@@ -20,14 +20,19 @@ As a growing necessity to take part to the numerical development of the humanita
 * Population tracking
 * Vaccination campaigns
 * Prevention/Information  
+  
 The core idea of the PONG project was to implement a dynamic world map, where markers would pop when and where an event would take place, such as :
 * A prevention campaign
 * A natural disaster
 * A humanitarian organisations/institutions meeting  
+  
 These markers could also display further information and redirect the user to a more detailed link.  
 Around this idea, the application would also implement a HUB for organisations and institutions, featuring : 
 * A rss flux newsfeed on recent humanitarian actions
 * A database to better track people who enters camps
 * Latest tweets (#humanitarian) from NGOs
-* And why not : Population tracking data (graphs...), 
+* And why not : Population tracking data (graphs...), a NGO<->Media Platform to relay information to populations, a humanitarian version of `Kickstarter'... and so on !
+  
+
+
 
