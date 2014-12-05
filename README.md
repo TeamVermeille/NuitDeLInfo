@@ -14,7 +14,6 @@ Guillaume Pangaud         (pangau_g)
 Sylvio Sorel              (sorel_s)  
 
 ###About the project
-
 The original goal of the PONG project was to design a new humanitarian platform for Organisations and institutions within the framework of the French national computer fair : La Nuit de l'Info 2014.  
 As a growing necessity to take part to the numerical development of the humanitarian actions, we decided to implement a web application to help organisations with the tremendous amount of human collectable data. Several direct applications came to mind as we designed its specifications, as : 
 * Population tracking
@@ -33,6 +32,9 @@ Around this idea, the application would also implement a HUB for organisations a
 * Latest tweets (#humanitarian) from NGOs
 * And why not : Population tracking data (graphs...), a NGO<->Media Platform to relay information to populations, a humanitarian version of `Kickstarter'... and so on !
   
+###Actual implementation
+We are aware that the specifications we gave to our project were way too large to be implemented in the given time (16 hours !). But we thought this would be interesting to actually write the ideas down and choose which ones we could implement.  
+As only a couple members of our team have a decent web knowledge, we could not go as far as intended, and only did a light database with 
 
 
 
