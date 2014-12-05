@@ -59,12 +59,12 @@ $(document).ready(function (){
                     });
                 })
                 .error(function(obj){
-                    $("#banniere-centrale").html("Erreur de chargement");
+                    $("#banniere-centrale").html("Loading error");
                 });
                 break;
-            case "accueil":
+            case "mainpage":
                 $.ajax({
-                    url: "accueil.html",
+                    url: "mainpage.html",
                 })
                 .done(function (data){
                     var d=data;
@@ -73,12 +73,12 @@ $(document).ready(function (){
                     });
                 })
                 .error(function(obj){
-                    $("#banniere-centrale").html("Erreur de chargement");
+                    $("#banniere-centrale").html("Loading error");
                 });
                 break;
-			case "equipes":
+			case "people":
 				$.ajax({
-					url: "equipes.html",
+					url: "people.html",
 				})
 				.done(function (data){
 					var d=data;
@@ -87,12 +87,12 @@ $(document).ready(function (){
 					});
 				})
 				.error(function(obj){
-					$("#banniere-centrale").html("Erreur de chargement");
+					$("#banniere-centrale").html("Loading error");
                 });
 				break;
-			case "boutique":
+			case "medical":
 				$.ajax({
-					url: "boutique.html",
+					url: "medical.html",
 				})
 				.done(function (data){
 					var d=data;
@@ -101,7 +101,7 @@ $(document).ready(function (){
 					});
 				})
 				.error(function(obj){
-					$("#banniere-centrale").html("Erreur de chargement");
+					$("#banniere-centrale").html("Loading error");
                 });
 				break;
 
