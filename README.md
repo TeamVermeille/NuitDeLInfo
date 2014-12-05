@@ -24,6 +24,7 @@ The core idea of the PONG project was to implement a dynamic world map, where ma
 * A prevention campaign
 * A natural disaster
 * A humanitarian organisations/institutions meeting  
+![](http://upperroommedia.com/sites/default/files/SSVM-Map.jpg)
   
 These markers could also display further information and redirect the user to a more detailed link.  
 Around this idea, the application would also implement a HUB for organisations and institutions, featuring : 
@@ -43,6 +44,6 @@ To better communicate about our project, we created several social networks refe
 A Wiki page is being written too.  
   
 ###References
-[!](http://upperroommedia.com/sites/default/files/SSVM-Map.jpg)
+
 
 
