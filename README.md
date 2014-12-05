@@ -44,6 +44,3 @@ To better communicate about our project, we created several social networks refe
 A Wiki page is being written too.  
   
 ###References
-
-
-
