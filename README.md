@@ -34,7 +34,14 @@ Around this idea, the application would also implement a HUB for organisations a
   
 ###Actual implementation
 We are aware that the specifications we gave to our project were way too large to be implemented in the given time (16 hours !). But we thought this would be interesting to actually write the ideas down and choose which ones we could implement.  
-As only a couple members of our team have a decent web knowledge, we could not go as far as intended, and only did a light database with 
+As only a couple members of our team have a decent web knowledge, we could not go as far as intended, and only did a basic database with a light website design for a start. More work needs to be done, but it's definitely an interesting project to develop.
+
+###Communication Work
+To better communicate about our project, we created several social networks references to the PONG Project :  
+[Like our project on Facebook !](https://www.facebook.com/pages/PONG/1597007230527022)
+[Follow us on Twitter !](https://twitter.com/PONG_Project)
+A Wiki page is being written too.
+
 
 
 
