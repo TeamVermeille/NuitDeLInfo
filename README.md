@@ -4,14 +4,14 @@ A Platform for Non Governmental Organisations.
 A project to develop a platform for NGOs and Institutions to check on population data, and share information.  
   
 ###Authors
-Yannick Bourgeois-Copigny (bourge_y)
-Antoine Cauchois          (caucho_a)
-Pascal Ceccaldi           (ceccal_p)
-Stéphane Delgado          (delgad_s)
-Paul Klein                (klein_p)
-Ludovic Meyer             (meyer_l)
-Guillaume Pangaud         (pangau_g)
-Sylvio Sorel              (sorel_s)
+Yann Bourgeois-Copigny    (bourge_y)  
+Antoine Cauchois          (caucho_a)  
+Pascal Ceccaldi           (ceccal_p)  
+Stéphane Delgado          (delgad_s)  
+Paul Klein                (klein_p)  
+Ludovic Meyer             (meyer_l)  
+Guillaume Pangaud         (pangau_g)  
+Sylvio Sorel              (sorel_s)  
 
 ###About the project
 
