@@ -39,8 +39,6 @@ header('Cache-Control: no-cache, must-revalidate');
 header('Expires: Mon, 26 Jul 1997 05:00:00 GMT');
 header('Content-type: application/json');
 echo json_encode($resultat);
-<<<<<<< HEAD
-=======
 #echo $firstname;
 #echo $lastname;
 #echo $age;
@@ -48,4 +46,3 @@ echo json_encode($resultat);
 #echo $event;
 #echo $location;
 #echo $state;
->>>>>>> [+] Last version
