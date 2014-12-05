@@ -38,10 +38,11 @@ As only a couple members of our team have a decent web knowledge, we could not g
 
 ###Communication Work
 To better communicate about our project, we created several social networks references to the PONG Project :  
-[Like our project on Facebook !](https://www.facebook.com/pages/PONG/1597007230527022)
-[Follow us on Twitter !](https://twitter.com/PONG_Project)
-A Wiki page is being written too.
-
-
+[Like our project on Facebook !](https://www.facebook.com/pages/PONG/1597007230527022)  
+[Follow us on Twitter !](https://twitter.com/PONG_Project)  
+A Wiki page is being written too.  
+  
+###References
+[!](http://upperroommedia.com/sites/default/files/SSVM-Map.jpg)
 
 
